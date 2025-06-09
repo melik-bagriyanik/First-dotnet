@@ -159,3 +159,4 @@
 /Users/melikbagriyanik/Desktop/workspace/first-dotnet/TodoApi/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/melikbagriyanik/Desktop/workspace/first-dotnet/TodoApi/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/melikbagriyanik/Desktop/workspace/first-dotnet/TodoApi/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/melikbagriyanik/Desktop/workspace/first-dotnet/TodoApi/obj/Debug/net8.0/TodoApi.sourcelink.json

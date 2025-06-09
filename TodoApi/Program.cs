@@ -25,6 +25,9 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
 
+app.MapGet("/", () => "Welcome to the Todo API!");
+app.MapGet("/todos", () => "todo list endpoint");
+
 // Auto migrate DB
 using (var scope = app.Services.CreateScope())
 {
